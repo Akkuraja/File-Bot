@@ -60,6 +60,15 @@ I Guess This Will Be Usefull For Many People.....😇.
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/1jKLr4)
 
 
+#### Deploy in your VPS
+````bash
+git clone https://github.com/CodeXBotz/File-Sharing-Bot
+cd File-Sharing-Bot
+pip3 install -r requirements.txt
+# <Create config.py appropriately>
+python3 main.py
+````
+
 ### Admin Commands
 
 ```
