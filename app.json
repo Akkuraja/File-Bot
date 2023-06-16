@@ -57,7 +57,7 @@
     "PROTECT_CONTENT": {
       "description": "Protect contents from getting forwarded",
       "value": "True",
-      "required": true or false 
+      "required": true 
     }
   },
   "buildpacks": [
